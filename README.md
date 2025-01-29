@@ -2,11 +2,7 @@
 
 ## GitHub Stats
 
-<div align="center" width="100%" height="30em">
-    <a href="https://github.com/alin-radu">
-        <img width="100%" height="30em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alin-radu&langs_count=9&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866" />
-    </a>
-</div>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-radu&langs_count=9&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866)]()
 
 <!--
 **alin-radu/alin-radu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
