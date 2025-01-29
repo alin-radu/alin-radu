@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## GitHub Stats
+
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+ -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-radu&langs_count=9&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866)]()
+
 <!--
 **alin-radu/alin-radu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
