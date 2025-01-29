@@ -1,6 +1,6 @@
 ### GitHub Stats
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-radu&langs_count=5&theme=react&bg_color=1F222E&hide_border=true&border_radius=10&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-radu&langs_count=5&theme=react&bg_color=1F222E&hide_border=true&border_radius=10&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866&card_width=900)]()
 
 <!--
 **alin-radu/alin-radu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+√
